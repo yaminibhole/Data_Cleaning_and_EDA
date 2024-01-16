@@ -1,4 +1,4 @@
-# PRODIGY_DS_TASK2
+# DATA CLEANING AND EXPLORATORY DATA ANALYSIS(EDA)
 This repository contains code for data cleaning and exploratory data analysis (EDA) on the Titanic dataset using the 'train.csv' file. The dataset includes information about passengers such as their survival status, class, age, and other attributes.
 
 ## Overview
